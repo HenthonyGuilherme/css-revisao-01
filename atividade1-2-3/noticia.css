@@ -1,0 +1,62 @@
+.principal{
+    font: italic bold 30px arial;
+    color: #280;
+}
+.ptitulo{
+    font: italic bold 25px arial;
+    color: #006;
+}
+
+.presumo{
+    font: italic 20px arial;
+}
+
+.pautor{
+    font: italic bold 20px arial;
+    color: #666;
+}
+
+.ptexto{
+    font: 15px arial;
+}
+
+.tb1{
+    border: solid 1px;
+    color: black;
+    background-color: #000033;
+    height: 36px;
+    width: 766px;
+}
+
+.titulo{
+    font: italic bold 15px arial;
+    background-color: #fff;
+}
+
+.origem{
+    font: bold 20px arial;
+    color: #280;
+    background-color: #fff;
+}
+
+.resumo{
+    font: 12px arial;
+    background-color: #fff;
+}
+
+.rodape{
+    font: bold 11px arial;
+    text-align: center;
+    background-color: #cfb;
+}
+
+a:link{color: #0000FF;}
+
+a:visited{color: #DDC71A;}
+
+a:active{color: #AC0B44;}
+
+a:hover{
+    color: #FF0000;
+    font-weight: bold;
+}
